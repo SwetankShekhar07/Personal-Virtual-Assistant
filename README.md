@@ -5,7 +5,6 @@ Here's a brief description of its functionality:
 Key Features:
 
 1.Speech Recognition and Synthesis
-
 2.Command Handling
 
 3.Media Control
